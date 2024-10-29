@@ -1,0 +1,3 @@
+#display then outfile
+
+print("Something")
